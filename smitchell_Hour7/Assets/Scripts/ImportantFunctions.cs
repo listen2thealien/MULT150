@@ -1,7 +1,7 @@
 using UnityEngine;
 
 public class ImportantFunctions : MonoBehaviour
-{
+{ public int runSpeed;
     // Start is called before the first frame update
     void Start()
     {
