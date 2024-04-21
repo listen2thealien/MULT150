@@ -44,5 +44,6 @@ Additional Changes:
 + Fencing
 + Music & Welcome intro
 + Attached spotlight to player (FPSController)
++ modified player walk speed
 
  */

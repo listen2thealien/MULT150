@@ -1,22 +1,13 @@
 using UnityEngine;
-using UnityStandardAssets.Characters.FirstPerson;
 
 public class GameManager : MonoBehaviour
 {
     public GoalScript blue, green, red, orange;
-    public GameObject player;
 
     private bool isGameOver = true;
     private float elapsedTime = 0;
     private bool isRunning = false;
     private bool isFinished = false;
-    private FirstPersonController fpsController;
-
-    void Start()
-    {
-        fpsController = player.GetComponent<FirstPersonController>();
-        fpsController.enabled = false;
-    }
 
     private void StartGame()
     {
