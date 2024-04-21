@@ -33,6 +33,7 @@ Exercise Implementations:
 2. Changed length of player's Bumper to be more effective at maneuvering balls into their goals.
 3. Switched footsteps audio for water splashing FX.
 4. Covered excess water with terrains
+5. Added timer
 
 Additional Changes:
 
