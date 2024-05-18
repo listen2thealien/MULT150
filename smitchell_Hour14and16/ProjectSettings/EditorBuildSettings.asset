@@ -6,9 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/smitchell_Hour14.unity
+    path: Assets/Scenez/smitchell_Hour14.unity
     guid: 19eeea872c47b4587aa9f2832e4c93bc
   - enabled: 1
-    path: "Assets/Scenes/Levita\u021Bie.unity"
+    path: "Assets/Scenez/Levita\u021Bie.unity"
     guid: 3f73ecfed291941df8653b45d8f488af
   m_configObjects: {}
