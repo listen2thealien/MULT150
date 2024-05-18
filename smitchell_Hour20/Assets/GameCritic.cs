@@ -13,8 +13,8 @@ Answers to questions:
 You're able to miss a bunch and still succeed. Also, you're able to make
 it 10-17 seconds without moving your character.
 
-2. To make them game harder I would first decrease the frequency of Power-ups 
-spawning.Then, increase the frequency of Obstacles spawning.
+2. To make the game harder I would first decrease the frequency of Power-ups 
+spawning. Then, increase the frequency of Obstacles spawning.
 
 3. Creating a dynamic background and differing levels would help make the game 
 become much more interesting. Dynamic background as in moving objects above and 
@@ -25,13 +25,15 @@ time reaches 1 minute (and you are still alive), the game automatically loads th
 next, and more difficult level.
 
 4 & 5. Moving the character and grabbing Power-Ups is fun. While not having an end goal 
-and also having the timer go on forever make the game tedious.
+and also having the timer go on forever makes the game tedious.
 
 Changes made:
 
 obstacle pickups:
 
-
+-Mesh, from Cube to "Shape2" (custom mesh)
+-Material, from red to "slime" (textured material)
+-Collider, from Box Collider to Mesh Collider
 
 Power-up pickups:
 
@@ -42,6 +44,5 @@ Power-up pickups:
 (Particle System Change):
 
 -Start Color, yellow to light blue
-
 
 */
